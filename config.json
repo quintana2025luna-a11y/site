@@ -1,0 +1,84 @@
+{
+  "_help": "AJUSTES GLOBALES. Aquí cambias el correo, los enlaces a redes, el idioma por defecto y los efectos opcionales. Un valor null significa «aún no configurado». Después de editar, ejecuta: node build.mjs",
+  "name": "Jorge",
+  "legalName": "Jorge Andrés Moreno Quintana",
+  "siteUrl": null,
+  "showPlaceholders": true,
+  "email": "quintana2025luna@gmail.com",
+  "socials": [
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/jorgeart.75"
+    },
+    {
+      "id": "behance",
+      "label": "Behance",
+      "url": "https://www.behance.net/andresquintana75"
+    },
+    {
+      "id": "artstation",
+      "label": "ArtStation",
+      "url": "https://www.artstation.com/jorgeart_754"
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": null
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "url": null
+    }
+  ],
+  "defaultLanguage": "es",
+  "languages": [
+    "es",
+    "en"
+  ],
+  "effects": {
+    "_help": "true = activado, false = desactivado. El usuario también puede reducir el movimiento desde el pie de página.",
+    "pageTransition": true,
+    "heroParallax": true,
+    "pointerGlow": true,
+    "reticle": true
+  },
+  "home": {
+    "heroVideo": {
+  "src": "assets/art/Videos_fondo/hero-fondo.mp4",
+  "alt": "assets/art/Videos_fondo/hero-fondo.webm",
+  "poster": "assets/art/Videos_fondo/hero-fondo-poster.jpg"
+}
+  },
+  "projects": {
+    "_help": "heroProject = slug del proyecto cuya portada aparece como obra principal en la portada del sitio.",
+    "heroProject": "ira"
+  },
+  "nav": [
+    {
+      "id": "projects",
+      "href": "projects.html"
+    },
+    {
+      "id": "explorations",
+      "href": "explorations.html"
+    },
+    {
+      "id": "lab",
+      "href": "lab.html"
+    },
+    {
+      "id": "about",
+      "href": "about.html"
+    },
+    {
+      "id": "notes",
+      "href": "field-notes.html"
+    },
+    {
+      "id": "shop",
+      "href": "shop.html"
+    }
+  ]
+}

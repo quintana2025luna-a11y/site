@@ -1,0 +1,83 @@
+{
+  "_help": "Datos del Laboratorio (lab.html). Textos en content/*.json bajo 'lab'. Las formas 3D son abstractas; los hotspots usan texto de muestra hasta que pongas documentación real.",
+  "models": [
+    "icosahedron",
+    "torus-knot",
+    "dodecahedron"
+  ],
+  "synth": {
+    "freq": {
+      "min": 55,
+      "max": 880,
+      "value": 110,
+      "step": 1
+    },
+    "rate": {
+      "min": 0,
+      "max": 12,
+      "value": 3,
+      "step": 0.1
+    },
+    "depth": {
+      "min": 0,
+      "max": 30,
+      "value": 8,
+      "step": 1
+    },
+    "volume": {
+      "min": 0,
+      "max": 0.4,
+      "value": 0.12,
+      "step": 0.01
+    },
+    "wave": "sine"
+  },
+  "shader": {
+    "freq": {
+      "min": 1,
+      "max": 16,
+      "value": 6,
+      "step": 0.5
+    },
+    "chaos": {
+      "min": 0,
+      "max": 1,
+      "value": 0.35,
+      "step": 0.05
+    },
+    "speed": {
+      "min": 0,
+      "max": 2,
+      "value": 0.6,
+      "step": 0.05
+    },
+    "palette": "green"
+  },
+  "hotspots": {
+    "image": {
+      "src": "assets/art/ira-painting-01-1600.jpg",
+      "small": "assets/art/ira-painting-01-800.jpg",
+      "w": 1600,
+      "h": 1240,
+      "ratio": "4x5",
+      "provisional": true
+    },
+    "points": [
+      {
+        "id": "1",
+        "x": 34,
+        "y": 26
+      },
+      {
+        "id": "2",
+        "x": 62,
+        "y": 52
+      },
+      {
+        "id": "3",
+        "x": 44,
+        "y": 80
+      }
+    ]
+  }
+}

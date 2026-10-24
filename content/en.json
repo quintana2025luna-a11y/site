@@ -1,0 +1,793 @@
+{
+  "types": {
+    "worldbuilding": "Worldbuilding",
+    "animation-installation": "Animation / Installation",
+    "painting": "Painting",
+    "mixed": "Mixed",
+    "vehicle-design": "Vehicle design",
+    "concept-art": "Concept art",
+    "character": "Character"
+  },
+  "projects": {
+    "biopunk": {
+      "title": "Biopunk",
+      "subtitle": "A World With Hunger",
+      "tags": [
+        "worldbuilding",
+        "creatures",
+        "ecosystems"
+      ],
+      "short": "A world without human presence, where an ecosystem develops on its own terms: creatures, habitats and the relationships between them.",
+      "verb": "Open the field guide",
+      "coverAlt": "Screen capture of the final scene of Ser Parte: organic, flesh-toned forms and glowing green and pink grass-like shapes.",
+      "modules": {
+        "world": {
+          "kicker": "The world",
+          "heading": "A world without humans",
+          "body": [
+            "The central premise: a world without human presence, where the ecosystem develops without humans entering or controlling it. The focus is on the creatures, their relationships, their habitats and the dynamics of the world itself."
+          ],
+          "note": "Draft copy based on your brief. Replace with your own introduction."
+        },
+        "ser-parte": {
+          "kicker": "Connected project",
+          "heading": "Ser Parte",
+          "body": [
+            "Ser Parte is a related project. It sits beside Biopunk as connected content and does not replace it."
+          ],
+          "note": "Project description and link still missing. This page’s cover is a provisional capture from Ser Parte."
+        },
+        "maps": {
+          "kicker": "Maps & ecosystems",
+          "heading": "Maps and ecosystems",
+          "items": [
+            {
+              "caption": "Map slot — awaiting artwork"
+            },
+            {
+              "caption": "Ecosystem diagram slot — awaiting artwork"
+            }
+          ]
+        },
+        "field-guide": {
+          "kicker": "Field guide",
+          "heading": "Creatures",
+          "items": [
+            {
+              "name": "Octopus"
+            },
+            {
+              "name": "Specimen 02"
+            },
+            {
+              "name": "Specimen 03"
+            }
+          ],
+          "fields": {
+            "designation": "Designation",
+            "habitat": "Habitat",
+            "relations": "Relations"
+          }
+        },
+        "habitats": {
+          "kicker": "Habitats",
+          "heading": "Habitat illustrations",
+          "items": [
+            {
+              "caption": "Habitat illustration slot"
+            },
+            {
+              "caption": "Habitat illustration slot"
+            }
+          ]
+        },
+        "3d": {
+          "kicker": "Production",
+          "heading": "3D models and process",
+          "items": [
+            {
+              "caption": "3D model / turntable slot"
+            },
+            {
+              "caption": "Process slot"
+            },
+            {
+              "caption": "Process slot"
+            }
+          ]
+        },
+        "research": {
+          "kicker": "Research",
+          "heading": "Research and development",
+          "items": [
+            {
+              "caption": "Research page / sketchbook slot"
+            },
+            {
+              "caption": "Research page / sketchbook slot"
+            }
+          ]
+        }
+      },
+      "coverCaption": "Final scene of the Ser Parte installation (screen capture)"
+    },
+    "golden-tec": {
+      "title": "Golden Tec",
+      "subtitle": "Audiovisual installation",
+      "tags": [
+        "animation",
+        "installation",
+        "audiovisual"
+      ],
+      "short": "An interactive installation combining short film, audiovisual elements, and digital technologies to critically explore the effects of hyperconnectivity on the identity and emotions of children and young people. Through Alejandro’s experience, the work invites reflection on the paradox of being constantly connected while experiencing isolation and emotional disconnection.",
+      "verb": "Enter the installation",
+      "coverAlt": "Provisional still from the animation: a soft 3D scene seen through blue water, with a large cartoon boy's face behind green seaweed and a small fuzzy pink fish in the foreground.",
+      "modules": {
+        "main-film": {
+          "kicker": "Main piece",
+          "heading": "Short film",
+          "videos": [
+            {
+              "title": "Short film"
+            }
+          ]
+        },
+        "concept": {
+          "kicker": "Concept",
+          "heading": "Conceptual description",
+          "body": [
+           "Golden Tec: Interactive Camera is an interactive installation that critically and sensorially explores the impact of hyperconnectivity on the lives of children and young people. Through visual and narrative elements, the work recreates the digital environment surrounding Alejandro, revealing the emotional disconnection that can emerge from constant virtual interaction. With a fragmented and chaotic aesthetic, the installation reflects the anxiety, confusion, and loneliness associated with the illusion of digital connection. The work invites viewers to question how technology influences identity and human relationships, creating a space for critical reflection on the paradox of being more connected than ever while feeling increasingly alone." 
+          ]
+        },
+        "excerpts": {
+          "kicker": "Animation",
+          "heading": "Teaser",
+          "videos": [
+            {
+              "title": "Teaser"
+            }
+          ]
+        },
+        "installation": {
+          "kicker": "Space",
+          "heading": "Installation photography",
+          "items": [
+            {
+              "caption": "Installation view slot"
+            },
+            {
+              "caption": "Installation view slot"
+            },
+            {
+              "caption": "Detail slot"
+            }
+          ]
+        },
+        "process": {
+          "kicker": "Process",
+          "heading": "Creative process and visual decisions",
+          "items": [
+            {
+              "caption": "Process slot"
+            },
+            {
+              "caption": "Process slot"
+            }
+          ]
+        },
+        "tech": {
+          "kicker": "Information",
+          "heading": "Technical information",
+          "note": "Nothing here is filled in yet — fill in only what is accurate.",
+          "facts": {
+            "format": "Format",
+            "duration": "Duration",
+            "space-dimensions": "Space / dimensions",
+            "equipment": "Equipment",
+            "credits": "Credits",
+            "year": "2025"
+          }
+        },
+        "documentation": {
+          "kicker": "Documentation",
+          "heading": "Documentation of the final work",
+          "items": [
+            {
+              "caption": "Documentation slot"
+            }
+          ]
+        }
+      }
+    },
+    "ira": {
+      "title": "Ira",
+      "subtitle": "Painting series",
+      "tags": [
+        "painting",
+        "series",
+        "statement"
+      ],
+      "short": "A painting series connected to the artist statement. The paintings come first; the interface stays out of their way.",
+      "verb": "Enter the gallery",
+      "coverAlt": "Painting of hands and feet in warm red and pink tones with green edges against a dark ground.",
+      "modules": {
+        "works": {
+          "kicker": "Works",
+          "heading": "The paintings",
+          "items": [
+            {
+              "caption": "Painting 01",
+              "alt": "Painting of hands and feet in warm red and pink tones with green edges against a dark ground."
+            },
+            {
+              "caption": "Painting 02"
+            },
+            {
+              "caption": "Painting 03"
+            },
+            {
+              "caption": "Painting 04"
+            }
+          ]
+        },
+        "statement": {
+          "kicker": "Statement",
+          "heading": "Artist statement",
+          "body": [
+            null
+          ],
+          "note": "Statement not written yet."
+        },
+        "details": {
+          "kicker": "Close-ups",
+          "heading": "Details",
+          "items": [
+            {
+              "caption": "Detail slot"
+            },
+            {
+              "caption": "Detail slot"
+            },
+            {
+              "caption": "Detail slot"
+            }
+          ]
+        },
+        "process": {
+          "kicker": "Process",
+          "heading": "From sketch to painting",
+          "beforeLabel": "Sketch",
+          "afterLabel": "Painting",
+          "beforeAlt": "Placeholder for the sketch",
+          "afterAlt": "Placeholder for the finished painting"
+        },
+        "technology": {
+          "kicker": "Future",
+          "heading": "Future technological explorations",
+          "body": [
+            "The series may incorporate technology in the future. This is still under development and nothing here exists yet."
+          ]
+        }
+      }
+    },
+    "explorations": {
+      "title": "Independent Explorations",
+      "subtitle": "Small projects, no shared universe",
+      "tags": [
+        "concept art",
+        "characters",
+        "vehicles",
+        "experiments"
+      ],
+      "short": "Independent artworks and small projects that may or may not be connected. Each entry stands on its own.",
+      "verb": "Browse the sheets",
+      "coverAlt": "Placeholder for the Independent Explorations cover",
+      "modules": {}
+    },
+    "h1": "The exhibition",
+    "lede": "Four rooms. Each one is arranged for the kind of work inside it. Prefer a list?",
+    "jump": "Jump to the index.",
+    "idxH": "Index",
+    "idxLede": "Everything in one register. Search by title or filter by type.",
+    "search": "Search the index",
+    "filterAria": "Filter by type",
+    "all": "All",
+    "thNo": "No.",
+    "thTitle": "Title",
+    "thType": "Type",
+    "thKind": "Kind",
+    "thYear": "Year",
+    "empty": "Nothing matches that search. Clear the search or choose All.",
+    "kindMain": "Main project",
+    "kindExploration": "Exploration"
+  },
+  "explorations": {
+    "Volkswagen Transporter t2 Van": {
+      "title": "Volkswagen Transporter t2 Van",
+      "short": "A vehicle design inspired by the Mad Max aesthetic.",
+      "imageAlt": "Placeholder for the vehicle design main image",
+      "process": [],
+      "silhouettes": [],
+      "details": []
+    },
+    "alchemist-angel": {
+      "title": "Alchemist Angel",
+      "short": "A small concept art project featuring an alchemist angel.",
+      "imageAlt": "Concept painting of a vaulted blue stone hall: a glowing violet ornamental orb floats above a golden stepped platform, beneath a hanging winged ornament.",
+      "process": [
+        {
+          "caption": "Process image slot"
+        },
+        {
+          "caption": "Process image slot"
+        }
+      ],
+      "compare": {
+        "beforeLabel": "Sketch",
+        "afterLabel": "Final",
+        "beforeAlt": "Placeholder sketch",
+        "afterAlt": "Placeholder final artwork"
+      },
+      "silhouettes": [
+        {
+          "caption": "Silhouette slot"
+        },
+        {
+          "caption": "Silhouette slot"
+        },
+        {
+          "caption": "Silhouette slot"
+        }
+      ],
+      "details": [
+        {
+          "caption": "Detail slot"
+        },
+        {
+          "caption": "Detail slot"
+        }
+      ]
+    },
+    "more-to-come": {
+      "title": "Characters, creatures & experiments",
+      "short": "Open slot for additional characters, creatures, illustrations and visual experiments.",
+      "imageAlt": "Empty slot",
+      "process": []
+    }
+  },
+  "notes": {
+    "first-note": {
+      "title": "The archive starts here",
+      "tags": [
+        "process"
+      ],
+      "body": [
+        "Placeholder entry. Field notes are the place for process notes, sketches, research and work in progress. They can grow alongside the practice without touching the main project pages."
+      ]
+    },
+    "note-template": {
+      "title": "Template: a process note",
+      "tags": [
+        "template"
+      ],
+      "body": [
+        "Placeholder entry. Add an entry in data/notes.json with a date, a title, tags and one or more paragraphs of text."
+      ]
+    },
+    "h1": "Field notes",
+    "lede": "Fragments, observations and process, kept outside the main projects."
+  },
+  "shop": {
+    "categories": {
+      "art-prints": "Art prints",
+      "merchandise": "Merchandise",
+      "apparel": "Apparel",
+      "artbooks": "Art books"
+    },
+    "info": {
+      "shipping": "Shipping",
+      "purchasing": "Purchasing",
+      "returns": "Returns"
+    },
+    "products": {
+      "print-a": {
+        "title": "Collectible print — demo A",
+        "description": "Demonstration item. Replace with a real print: size, paper, edition.",
+        "availability": "Coming soon",
+        "imageAlt": "Placeholder product image"
+      },
+      "print-b": {
+        "title": "Collectible print — demo B",
+        "description": "Demonstration item. Replace with a real print: size, paper, edition.",
+        "availability": "Coming soon",
+        "imageAlt": "Placeholder product image"
+      },
+      "illustration": {
+        "title": "Printed illustration — demo",
+        "description": "Demonstration item for a printed illustration.",
+        "availability": "Coming soon",
+        "imageAlt": "Placeholder product image"
+      },
+      "merch-a": {
+        "title": "Merchandise — demo A",
+        "description": "Demonstration item for artwork-related merchandise.",
+        "availability": "Coming soon",
+        "imageAlt": "Placeholder product image"
+      },
+      "merch-b": {
+        "title": "Merchandise — demo B",
+        "description": "Demonstration item for artwork-related merchandise.",
+        "availability": "Coming soon",
+        "imageAlt": "Placeholder product image"
+      },
+      "apparel-a": {
+        "title": "Apparel — planned category",
+        "description": "Future category. No garments or designs are defined yet.",
+        "availability": "To be defined",
+        "imageAlt": "Product placeholder image"
+      },
+      "artbook-a": {
+        "title": "Art book — planned category",
+        "description": "Future category. No edition, content or date is defined.",
+        "availability": "To be defined",
+        "imageAlt": "Product placeholder image"
+      }
+    },
+    "h1": "Prints and merchandise",
+    "noticeStrong": "Preview catalog.",
+    "notice": "These are demonstration items. There is nothing to buy yet, and no checkout.",
+    "catalogAria": "Catalog",
+    "filterAria": "Filter by category",
+    "buy": "Buy",
+    "soon": "Coming Soon",
+    "check": "Check availability",
+    "infoH": "Shipping and purchasing",
+    "status": {
+      "example": "Example",
+      "placeholder": "Placeholder",
+      "available": "Available",
+      "future": "Future"
+    },
+    "search": "Search the catalogue",
+    "empty": "No item matches the search or filter.",
+    "statusHelp": "Statuses: “Example” and “Placeholder” are sample items; “Future” is a planned category; “Available” should only be used when there is a real product with a price and a purchase link."
+  },
+  "about": {
+    "disciplines": "Disciplines",
+    "disciplinesNote": "Draft list taken from the project pages. Edit freely.",
+    "portraitAlt": "Placeholder for a portrait or studio photo",
+    "professional": {
+      "based-in": "Based in",
+      "available-for": "Available for",
+      "education": "Education",
+      "exhibitions": "Exhibitions",
+      "cv": "CV / résumé link"
+    },
+    "declaration": "Artist statement",
+    "tools": "Tools",
+    "pro": "Professional information",
+    "contact": "Contact",
+    "hub": "This site is the hub. It does not mirror social feeds.",
+    "socialsNote": "Links that are not set yet appear greyed out. Add each URL in config.json → socials.",
+    "mail": "Write to me at",
+    "elsewhere": "Also on"
+  },
+  "imageMeta": {
+    "year": "Year",
+    "medium": "Medium",
+    "dimensions": "Dimensions"
+  },
+  "site": {
+    "concept": "Living Archive",
+    "tagline": "A living archive of artistic territories: worlds, installations, paintings and experiments. Explore in any order.",
+    "description": "Jorge — Living Archive. Portfolio and archive of a visual artist: worldbuilding, audiovisual installation, painting and independent explorations.",
+    "footerLine": "Living Archive: an archive that grows with the work.",
+    "rights": "All artwork belongs to the artist."
+  },
+  "nav": {
+    "projects": "Projects",
+    "explorations": "Explorations",
+    "about": "About",
+    "notes": "Field Notes",
+    "shop": "Prints & Merch",
+    "contact": "Contact",
+    "aria": "Main",
+    "footAria": "Footer",
+    "lab": "Lab"
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "langLabel": "Language",
+    "motionOn": "Motion: on",
+    "motionReduced": "Motion: reduced",
+    "footExplore": "Explore",
+    "footElsewhere": "Elsewhere",
+    "footPlaceholders": "Items marked “Placeholder” stand in for real work that is still missing.",
+    "emailLabel": "Email",
+    "home": "home",
+    "togglePanel": "Show or hide the panel",
+    "reticleX": "X",
+    "reticleY": "Y"
+  },
+  "flag": {
+    "placeholder": "Placeholder",
+    "provisional": "Provisional image",
+    "video": "Video placeholder",
+    "slot": "Open slot",
+    "demo": "Demo item",
+    "translation": "Translation pending",
+    "statement": "Provisional text",
+    "example": "Example"
+  },
+  "empty": {
+    "add": "To be added",
+    "text": "Text to be written.",
+    "confirm": "To be confirmed",
+    "price": "Price to be announced",
+    "store": "To be added once the store is configured",
+    "tools": "Tools to be added.",
+    "emailShort": "Email: not set yet"
+  },
+  "social": {
+    "unset": "Link not set yet: add it in config.json",
+    "unsetSr": "(link not set yet)",
+    "newTab": "(opens in a new tab)"
+  },
+  "module": {
+    "wip": "Work in progress",
+    "tocAria": "On this page",
+    "toc": "Contents",
+    "videoFallback": "Your browser cannot play this video.",
+    "enlarge": "Enlarge:",
+    "compareHint": "Slide to compare the two images",
+    "ytOpen": "Watch on YouTube"
+  },
+  "lb": {
+    "label": "Image viewer",
+    "close": "Close",
+    "closeAria": "Close image viewer",
+    "prev": "Prev",
+    "prevAria": "Previous image",
+    "next": "Next",
+    "nextAria": "Next image",
+    "zoomInAria": "Zoom in",
+    "zoomOutAria": "Zoom out",
+    "reset": "Reset",
+    "resetAria": "Reset zoom and position",
+    "hint": "Wheel or pinch: zoom · drag: pan · +/−/0 · Esc: close"
+  },
+  "project": {
+    "crumb": "Projects",
+    "prev": "Previous project",
+    "next": "Next project",
+    "pagerAria": "Other projects",
+    "ctaText": "Interested in this work?",
+    "ctaExtra": "Write to me, or find the work elsewhere.",
+    "sysTitle": "System sheet",
+    "specimen": "Entry"
+  },
+  "sys": {
+    "code": "Code",
+    "type": "Type",
+    "year": "Year",
+    "links": "Connections",
+    "none": "None yet"
+  },
+  "rel": {
+    "title": "Connections",
+    "lede": "Threads to other parts of the archive.",
+    "connected": {
+      "out": "Connected project",
+      "in": "Connected to"
+    },
+    "contains": {
+      "out": "Contains",
+      "in": "Part of"
+    },
+    "note": {
+      "out": "Related note",
+      "in": "Work discussed"
+    }
+  },
+  "kind": {
+    "project": "Main project",
+    "connected": "Connected project",
+    "exploration": "Exploration",
+    "area": "Section",
+    "note": "Field note"
+  },
+  "home": {
+    "heroAria": "Introduction",
+    "cta1": "Explore the Archive",
+    "cta2": "Professional Portfolio",
+    "scroll": "Scroll",
+    "scrollSr": "Scroll to the archive",
+    "artLabel": "Featured work",
+    "artOpen": "View the project",
+    "introText": "Four bodies of work, kept apart on purpose: a world with its own ecosystem, an audiovisual installation, a series of paintings, and a drawer of independent experiments.",
+    "asidePre": "They do not share a universe. Enter any of them. Visiting for work?",
+    "asideIndex": "The index lists everything in one table",
+    "asideMid": ", and",
+    "asidePro": "the professional details",
+    "asidePost": "are on the About page.",
+    "notesLink": "Open the field notes",
+    "shopH": "A shop is coming.",
+    "shopText": "A preview catalog is available. Nothing can be purchased yet.",
+    "shopLink": "See the preview catalog"
+  },
+  "map": {
+    "title": "Ecosystem map",
+    "lede": "Every point is a territory of the archive. Lines mark real connections between them. Hover or focus a point to see what it holds.",
+    "aria": "Map of the archive’s ecosystem",
+    "window": "map",
+    "idle": "Select a point to see what it holds.",
+    "enter": "Enter",
+    "hub": "Living Archive",
+    "linkedWith": "Connected to",
+    "readout": "Readout",
+    "filterAria": "Filter the map by territory",
+    "group": {
+      "biopunk": "Biopunk",
+      "golden-tec": "Golden Tec",
+      "ira": "Ira",
+      "free": "Free work",
+      "archive": "Archive"
+    },
+    "countShowing": "Showing",
+    "countOf": "of",
+    "countNodes": "nodes",
+    "dragHint": "You can drag the nodes to rearrange the map; Enter opens the link.",
+    "reset": "Reset positions",
+    "nodeLab": "Interactive experiments"
+  },
+  "statement": {
+    "window": "statement",
+    "title": "Artist statement",
+    "read": "Read the full statement",
+    "longH": "Full statement",
+    "short": "My artistic practice explores the relationships between the body, identity, perception, and the environment through visual, digital, and interactive media. By experimenting with images, narratives, and spaces, I seek to raise questions about sensitivity, vulnerability, and the ways we experience and relate to the world.",
+    "long": [
+      "My practice starts from a simple and difficult question: how the body, identity, perception and the environment intersect. I do not treat them as separate subjects but as parts of a single experience that changes depending on where it is seen from.",
+      "I work with visual, digital and interactive media because each allows a different way of approaching that question. I experiment with images, narratives and spaces, and let the process open questions rather than close them.",
+      "What I look for is to raise questions about sensitivity, vulnerability and the ways in which we live in the world and relate to it."
+    ],
+    "note": "Provisional text: the short statement is an initial synthesis, and the long version is a draft built only from it. Replace both in content/es.json and content/en.json → statement once the final statement exists."
+  },
+  "expl": {
+    "search": "Search the sheets",
+    "view": "View the sheet",
+    "note": "Add or remove entries in data/explorations.json. Each entry is independent.",
+    "entriesAria": "Entries",
+    "crumb": "Independent Explorations",
+    "type": "Type",
+    "year": "Year",
+    "techniques": "Techniques",
+    "sheetAria": "Sheet information",
+    "silhouettes": "Silhouettes",
+    "palette": "Palette",
+    "paletteNote": "Add hex colours in data/explorations.json → sheet.palette.",
+    "details": "Details",
+    "compareH": "Sketch and final",
+    "process": "Process",
+    "entryNote": "Add images in data/explorations.json and text in content/es.json and content/en.json.",
+    "all": "All explorations",
+    "nextSheet": "Next sheet",
+    "jump": "On this sheet"
+  },
+  "nf": {
+    "h1": "Off the map",
+    "lede": "That page is not part of the archive.",
+    "back": "Back to the start"
+  },
+  "meta": {
+    "home": {
+      "title": "Jorge — Living Archive"
+    },
+    "projects": {
+      "title": "Projects",
+      "desc": "The four main projects: Biopunk, Golden Tec, Ira and Independent Explorations."
+    },
+    "explorations": {
+      "title": "Independent Explorations"
+    },
+    "about": {
+      "title": "About & Contact",
+      "desc": "Artist statement, disciplines, tools, professional information and contact."
+    },
+    "notes": {
+      "title": "Field Notes",
+      "desc": "Process notes, research and work in progress from the archive."
+    },
+    "shop": {
+      "title": "Prints & Merchandise",
+      "desc": "Preview catalog for future art prints and merchandise. Nothing can be purchased yet."
+    },
+    "notfound": {
+      "title": "Not found",
+      "desc": "Page not found."
+    },
+    "lab": {
+      "title": "Lab",
+      "desc": "Interactive experiments of the archive: a 3D viewer with abstract shapes, a synth, a shader and sample process panels."
+    }
+  },
+  "lab": {
+    "h1": "Lab",
+    "lede": "Four tools to explore the archive hands-on. They are site experiments, not documentation of real artworks.",
+    "noticeStrong": "Sample content.",
+    "notice": "The 3D shapes are abstract solids and the panel texts are samples: they do not describe real works by Jorge. Replace them by editing data/lab.json and content/*.json.",
+    "toc": "On this page",
+    "exp": "Example",
+    "viewer": {
+      "title": "3D viewer",
+      "text": "Drag to rotate, use the wheel or the buttons to zoom. Switch shape or toggle the wireframe.",
+      "aria": "3D viewer of abstract shapes",
+      "fallback": "Your browser cannot draw the 3D viewer (canvas unavailable). The rest of the site works the same.",
+      "object": "Shape",
+      "icosahedron": "Icosahedron",
+      "torus-knot": "Torus knot",
+      "dodecahedron": "Dodecahedron",
+      "wire": "Wireframe",
+      "zoomIn": "Zoom in",
+      "zoomOut": "Zoom out",
+      "reset": "Reset",
+      "spin": "Auto-rotate"
+    },
+    "synth": {
+      "title": "Synth",
+      "text": "An oscillator with slow modulation. Sound only starts when you press “Start” and begins at a low volume.",
+      "start": "Start sound",
+      "stop": "Stop sound",
+      "on": "Playing",
+      "off": "Stopped",
+      "unsupported": "Your browser does not support web audio; the synth is unavailable.",
+      "freq": "Frequency (Hz)",
+      "wave": "Wave",
+      "sine": "Sine",
+      "triangle": "Triangle",
+      "sawtooth": "Sawtooth",
+      "rate": "Modulation rate (Hz)",
+      "depth": "Modulation depth",
+      "volume": "Volume",
+      "reset": "Reset"
+    },
+    "shader": {
+      "title": "Generative field",
+      "text": "An animated grid driven by sine and cosine functions. It is a 2D visual experiment (no WebGL).",
+      "aria": "Animated generative field",
+      "freq": "Frequency",
+      "chaos": "Chaos",
+      "speed": "Speed",
+      "palette": "Palette",
+      "green": "Green",
+      "crimson": "Crimson",
+      "paper": "Paper",
+      "play": "Play",
+      "pause": "Pause",
+      "reset": "Reset",
+      "fallback": "Your browser cannot draw the generative field (canvas unavailable).",
+      "paused": "Paused (reduced motion: press Play to animate)."
+    },
+    "hot": {
+      "title": "Process panel",
+      "text": "Press a point on the image to open its sheet. The sheets are a template: replace the image and the texts with real documentation.",
+      "imageAlt": "Painting from the Ira series (provisional image) with interactive points",
+      "idle": "Select a point on the image.",
+      "point": "Point",
+      "noteFlag": "Sample text",
+      "1": {
+        "title": "Area 1",
+        "text": "A process note about this area of the work will go here: technique, decision or reference."
+      },
+      "2": {
+        "title": "Area 2",
+        "text": "Another note will go here: materials, layers or changes from the sketch."
+      },
+      "3": {
+        "title": "Area 3",
+        "text": "A documented detail will go here, with its date and source."
+      }
+    }
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "types": {
+    "worldbuilding": "Construcción de mundos",
+    "animation-installation": "Animación / Instalación",
+    "painting": "Pintura",
+    "mixed": "Mixto",
+    "vehicle-design": "Diseño de vehículos",
+    "concept-art": "Arte conceptual",
+    "character": "Personaje"
+  },
+  "projects": {
+    "biopunk": {
+      "title": "Biopunk",
+      "subtitle": "Un mundo con hambre",
+      "tags": [
+        "construcción de mundos",
+        "criaturas",
+        "ecosistemas"
+      ],
+      "short": "Un mundo sin presencia humana, donde un ecosistema se desarrolla en sus propios términos: criaturas, hábitats y las relaciones entre ellos.",
+      "verb": "Abrir la guía de campo",
+      "coverAlt": "Captura de pantalla de la escena final de Ser Parte: formas orgánicas de tono carne y formas luminosas verdes y rosadas parecidas a hierba.",
+      "coverCaption": "Escena final de la instalación Ser Parte (captura de pantalla)",
+      "modules": {
+        "world": {
+          "kicker": "El mundo",
+          "heading": "Un mundo sin humanos",
+          "body": [
+            "La premisa central: un mundo sin presencia humana, donde el ecosistema se desarrolla sin que los humanos entren ni lo controlen. El foco está en las criaturas, sus relaciones, sus hábitats y las dinámicas del propio mundo."
+          ],
+          "note": "Texto borrador basado en tu brief. Reemplázalo por tu propia introducción."
+        },
+        "ser-parte": {
+          "kicker": "Proyecto conectado",
+          "heading": "Ser Parte",
+          "body": [
+            "Ser Parte es un proyecto relacionado. Está junto a Biopunk como contenido conectado y no lo reemplaza."
+          ],
+          "note": "Aún faltan la descripción del proyecto y su enlace. La portada de esta página es una captura provisional de Ser Parte."
+        },
+        "maps": {
+          "kicker": "Mapas y ecosistemas",
+          "heading": "Mapas y ecosistemas",
+          "items": [
+            {
+              "caption": "Espacio para un mapa: falta la obra"
+            },
+            {
+              "caption": "Espacio para un diagrama de ecosistema: falta la obra"
+            }
+          ]
+        },
+        "field-guide": {
+          "kicker": "Guía de campo",
+          "heading": "Criaturas",
+          "items": [
+            {
+              "name": "Pulpo"
+            },
+            {
+              "name": "Espécimen 02"
+            },
+            {
+              "name": "Espécimen 03"
+            }
+          ],
+          "fields": {
+            "designation": "Designación",
+            "habitat": "Hábitat",
+            "relations": "Relaciones"
+          }
+        },
+        "habitats": {
+          "kicker": "Hábitats",
+          "heading": "Ilustraciones de hábitats",
+          "items": [
+            {
+              "caption": "Espacio para ilustración de hábitat"
+            },
+            {
+              "caption": "Espacio para ilustración de hábitat"
+            }
+          ]
+        },
+        "3d": {
+          "kicker": "Producción",
+          "heading": "Modelos 3D y proceso",
+          "items": [
+            {
+              "caption": "Espacio para modelo 3D / turntable"
+            },
+            {
+              "caption": "Espacio de proceso"
+            },
+            {
+              "caption": "Espacio de proceso"
+            }
+          ]
+        },
+        "research": {
+          "kicker": "Investigación",
+          "heading": "Investigación y desarrollo",
+          "items": [
+            {
+              "caption": "Espacio para página de investigación / cuaderno"
+            },
+            {
+              "caption": "Espacio para página de investigación / cuaderno"
+            }
+          ]
+        }
+      }
+    },
+    "golden-tec": {
+      "title": "Golden Tec",
+      "subtitle": "Instalación audiovisual",
+      "tags": [
+        "animación",
+        "instalación",
+        "audiovisual"
+      ],
+      "short": "Instalación interactiva que combina cortometraje, recursos audiovisuales y tecnologías digitales para explorar críticamente los efectos de la hiperconectividad en la identidad y las emociones de niños y jóvenes. A través de la experiencia de Alejandro, la obra invita a reflexionar sobre la paradoja de estar siempre conectados y, al mismo tiempo, experimentar aislamiento y desconexión emocional.",
+      "coverAlt": "Fotograma provisional de la animación: una escena 3D suave vista a través de agua azul, con el rostro grande de un niño de dibujos animados tras algas verdes y un pequeño pez rosa peludo en primer plano.",
+      "modules": {
+        "main-film": {
+          "kicker": "Pieza principal",
+          "heading": "Cortometraje",
+          "videos": [
+            {
+              "title": "Cortometraje"
+            }
+          ]
+        },
+        "concept": {
+          "kicker": "Concepto",
+          "heading": "Descripción conceptual",
+          "body": [
+         "Golden Tec: Cámara Interactiva es una instalación interactiva que representa, de manera crítica y sensorial, el impacto de la hiperconectividad en la vida de niños y jóvenes. A través de un lenguaje visual y narrativo, la obra recrea el entorno digital en el que Alejandro se ve envuelto, evidenciando la desconexión emocional que puede surgir de la constante interacción virtual. Con una estética fragmentada y caótica, la instalación refleja la ansiedad, la confusión y la soledad asociadas a la aparente conexión digital. La obra invita a cuestionar cómo la tecnología influye en la construcción de la identidad y las relaciones humanas, generando un espacio de contemplación crítica sobre la paradoja de estar más conectados que nunca y, al mismo tiempo, sentirnos más solos."
+          ]
+        },
+        "excerpts": {
+          "kicker": "Animación", 
+          "heading": "Teaser",
+          "videos": [
+            {
+              "title": "Teaser"
+            }
+          ]
+        },
+        "installation": {
+          "kicker": "Espacio",
+          "heading": "Fotografía de la instalación",
+          "items": [
+            {
+              "caption": "Espacio para vista de la instalación"
+            },
+            {
+              "caption": "Espacio para vista de la instalación"
+            },
+            {
+              "caption": "Espacio para detalle"
+            }
+          ]
+        },
+        "process": {
+          "kicker": "Proceso",
+          "heading": "Proceso creativo y decisiones visuales",
+          "items": [
+            {
+              "caption": "Espacio de proceso"
+            },
+            {
+              "caption": "Espacio de proceso"
+            }
+          ]
+        },
+        "tech": {
+          "kicker": "Información",
+          "heading": "Información técnica",
+          "note": "Aún no hay nada completado: llena solo lo que sea exacto.",
+          "facts": {
+            "format": "Formato",
+            "duration": "Duración",
+            "space-dimensions": "Espacio / dimensiones",
+            "equipment": "Equipo",
+            "credits": "Créditos",
+            "year": "2025"
+          }
+        },
+        "documentation": {
+          "kicker": "Documentación",
+          "heading": "Documentación de la obra final",
+          "items": [
+            {
+              "caption": "Espacio para documentación"
+            }
+          ]
+        }
+      }
+    },
+    "ira": {
+      "title": "Ira",
+      "subtitle": "Serie de pinturas",
+      "tags": [
+        "pintura",
+        "serie",
+        "declaración"
+      ],
+      "short": "Una serie de pinturas conectada con la declaración artística. Las pinturas van primero; la interfaz se mantiene fuera de su camino.",
+      "verb": "Entrar a la galería",
+      "coverAlt": "Pintura de manos y pies en tonos cálidos rojos y rosados con bordes verdes sobre un fondo oscuro.",
+      "modules": {
+        "works": {
+          "kicker": "Obras",
+          "heading": "Las pinturas",
+          "items": [
+            {
+              "caption": "Pintura 01",
+              "alt": "Pintura de manos y pies en tonos cálidos rojos y rosados con bordes verdes sobre un fondo oscuro."
+            },
+            {
+              "caption": "Pintura 02"
+            },
+            {
+              "caption": "Pintura 03"
+            },
+            {
+              "caption": "Pintura 04"
+            }
+          ]
+        },
+        "statement": {
+          "kicker": "Declaración",
+          "heading": "Declaración artística",
+          "body": [
+            null
+          ],
+          "note": "Aún no se ha escrito la declaración de esta serie."
+        },
+        "details": {
+          "kicker": "Primeros planos",
+          "heading": "Detalles",
+          "items": [
+            {
+              "caption": "Espacio para detalle"
+            },
+            {
+              "caption": "Espacio para detalle"
+            },
+            {
+              "caption": "Espacio para detalle"
+            }
+          ]
+        },
+        "process": {
+          "kicker": "Proceso",
+          "heading": "Del boceto a la pintura",
+          "beforeLabel": "Boceto",
+          "afterLabel": "Pintura",
+          "beforeAlt": "Marcador para el boceto",
+          "afterAlt": "Marcador para la pintura terminada"
+        },
+        "technology": {
+          "kicker": "Futuro",
+          "heading": "Futuras exploraciones tecnológicas",
+          "body": [
+            "La serie podría incorporar tecnología en el futuro. Todavía está en desarrollo y nada de esto existe aún."
+          ]
+        }
+      }
+    },
+    "explorations": {
+      "title": "Exploraciones independientes",
+      "subtitle": "Proyectos pequeños, sin universo compartido",
+      "tags": [
+        "arte conceptual",
+        "personajes",
+        "vehículos",
+        "experimentos"
+      ],
+      "short": "Obras independientes y proyectos pequeños que pueden estar conectados o no. Cada entrada se sostiene por sí sola.",
+      "verb": "Ver las fichas",
+      "coverAlt": "Marcador para la portada de Exploraciones independientes",
+      "modules": {}
+    },
+    "h1": "La exposición",
+    "lede": "Cuatro salas. Cada una está organizada según el tipo de obra que contiene. ¿Prefieres una lista?",
+    "jump": "Salta al índice.",
+    "idxH": "Índice",
+    "idxLede": "Todo en un solo registro. Busca por título o filtra por tipo.",
+    "search": "Buscar en el índice",
+    "filterAria": "Filtrar por tipo",
+    "all": "Todos",
+    "thNo": "N.º",
+    "thTitle": "Título",
+    "thType": "Tipo",
+    "thKind": "Clase",
+    "thYear": "Año",
+    "empty": "Nada coincide con esa búsqueda. Borra la búsqueda o elige Todos.",
+    "kindMain": "Proyecto principal",
+    "kindExploration": "Exploración"
+  },
+  "explorations": {
+    "Volkswagen Transporter t2 Van": {
+      "title": "Volkswagen Transporter t2 Van",
+      "short": "Un diseño de vehículo inspirado en la estética de Mad Max.",
+      "imageAlt": "Marcador para la imagen principal del diseño de vehículo",
+      "process": [],
+      "silhouettes": [],
+      "details": []
+    },
+    "alchemist-angel": {
+      "title": "Ángel alquimista",
+      "short": "Un pequeño proyecto de arte conceptual protagonizado por un ángel alquimista.",
+      "imageAlt": "Pintura conceptual de un salón abovedado de piedra azul: un orbe ornamental violeta luminoso flota sobre una plataforma dorada escalonada, bajo un adorno alado colgante.",
+      "process": [
+        {
+          "caption": "Espacio para imagen de proceso"
+        },
+        {
+          "caption": "Espacio para imagen de proceso"
+        }
+      ],
+      "compare": {
+        "beforeLabel": "Boceto",
+        "afterLabel": "Final",
+        "beforeAlt": "Marcador del boceto",
+        "afterAlt": "Marcador de la obra final"
+      },
+      "silhouettes": [
+        {
+          "caption": "Espacio para silueta"
+        },
+        {
+          "caption": "Espacio para silueta"
+        },
+        {
+          "caption": "Espacio para silueta"
+        }
+      ],
+      "details": [
+        {
+          "caption": "Espacio para detalle"
+        },
+        {
+          "caption": "Espacio para detalle"
+        }
+      ]
+    },
+    "more-to-come": {
+      "title": "Personajes, criaturas y experimentos",
+      "short": "Espacio abierto para más personajes, criaturas, ilustraciones y experimentos visuales.",
+      "imageAlt": "Espacio vacío",
+      "process": []
+    }
+  },
+  "notes": {
+    "first-note": {
+      "title": "El archivo empieza aquí",
+      "tags": [
+        "proceso"
+      ],
+      "body": [
+        "Entrada de marcador. Las notas de campo son el lugar para notas de proceso, bocetos, investigación y trabajo en curso. Pueden crecer junto a la práctica sin tocar las páginas de los proyectos principales."
+      ]
+    },
+    "note-template": {
+      "title": "Plantilla: una nota de proceso",
+      "tags": [
+        "plantilla"
+      ],
+      "body": [
+        "Entrada de marcador. Agrega una entrada en data/notes.json con su fecha y, en content/es.json y content/en.json, su título, etiquetas y uno o más párrafos."
+      ]
+    },
+    "h1": "Notas de campo",
+    "lede": "Fragmentos, observaciones y proceso, guardados fuera de los proyectos principales."
+  },
+  "shop": {
+    "categories": {
+      "art-prints": "Impresiones de arte",
+      "merchandise": "Mercancía",
+      "apparel": "Ropa",
+      "artbooks": "Libros de arte"
+    },
+    "info": {
+      "shipping": "Envío",
+      "purchasing": "Compra",
+      "returns": "Devoluciones"
+    },
+    "products": {
+      "print-a": {
+        "title": "Impresión de colección — muestra A",
+        "description": "Artículo de muestra. Reemplázalo por una impresión real: tamaño, papel, edición.",
+        "availability": "Próximamente",
+        "imageAlt": "Imagen de marcador del producto"
+      },
+      "print-b": {
+        "title": "Impresión de colección — muestra B",
+        "description": "Artículo de muestra. Reemplázalo por una impresión real: tamaño, papel, edición.",
+        "availability": "Próximamente",
+        "imageAlt": "Imagen de marcador del producto"
+      },
+      "illustration": {
+        "title": "Ilustración impresa — muestra",
+        "description": "Artículo de muestra para una ilustración impresa.",
+        "availability": "Próximamente",
+        "imageAlt": "Imagen de marcador del producto"
+      },
+      "merch-a": {
+        "title": "Mercancía — muestra A",
+        "description": "Artículo de muestra para mercancía relacionada con la obra.",
+        "availability": "Próximamente",
+        "imageAlt": "Imagen de marcador del producto"
+      },
+      "merch-b": {
+        "title": "Mercancía — muestra B",
+        "description": "Artículo de muestra para mercancía relacionada con la obra.",
+        "availability": "Próximamente",
+        "imageAlt": "Imagen de marcador del producto"
+      },
+      "apparel-a": {
+        "title": "Ropa — categoría prevista",
+        "description": "Categoría futura. No hay prendas ni diseños definidos todavía.",
+        "availability": "Por definir",
+        "imageAlt": "Imagen de marcador del producto"
+      },
+      "artbook-a": {
+        "title": "Libro de arte — categoría prevista",
+        "description": "Categoría futura. No hay edición, contenido ni fecha definidos.",
+        "availability": "Por definir",
+        "imageAlt": "Imagen de marcador del producto"
+      }
+    },
+    "h1": "Impresiones y mercancía",
+    "noticeStrong": "Catálogo de vista previa.",
+    "notice": "Son artículos de demostración. Todavía no hay nada que comprar ni un pago configurado.",
+    "catalogAria": "Catálogo",
+    "filterAria": "Filtrar por categoría",
+    "buy": "Comprar",
+    "soon": "Próximamente",
+    "check": "Consultar disponibilidad",
+    "infoH": "Envío y compra",
+    "status": {
+      "example": "Ejemplo",
+      "placeholder": "Marcador",
+      "available": "Disponible",
+      "future": "Futuro"
+    },
+    "search": "Buscar en el catálogo",
+    "empty": "Ningún artículo coincide con la búsqueda o el filtro.",
+    "statusHelp": "Estados: «Ejemplo» y «Marcador» son artículos de muestra; «Futuro» es una categoría prevista; «Disponible» solo debe usarse cuando haya un producto real con precio y enlace de compra."
+  },
+  "about": {
+    "disciplines": "Disciplinas",
+    "disciplinesNote": "Lista borrador tomada de las páginas de proyectos. Edítala libremente.",
+    "portraitAlt": "Marcador para un retrato o una foto del estudio",
+    "professional": {
+      "based-in": "Residencia",
+      "available-for": "Disponible para",
+      "education": "Formación",
+      "exhibitions": "Exposiciones",
+      "cv": "Enlace a CV / hoja de vida"
+    },
+    "declaration": "Declaración artística",
+    "tools": "Herramientas",
+    "pro": "Información profesional",
+    "contact": "Contacto",
+    "hub": "Este sitio es el centro. No replica redes sociales.",
+    "socialsNote": "Los enlaces sin configurar aparecen atenuados. Agrega cada URL en config.json → socials.",
+    "mail": "Escríbeme a",
+    "elsewhere": "También en"
+  },
+  "imageMeta": {
+    "year": "Año",
+    "medium": "Técnica",
+    "dimensions": "Dimensiones"
+  },
+  "site": {
+    "concept": "Archivo vivo",
+    "tagline": "Un archivo vivo de territorios artísticos: mundos, instalaciones, pinturas y experimentos. Explora en cualquier orden.",
+    "description": "Jorge — Archivo vivo. Portafolio y archivo de un artista visual: construcción de mundos, instalación audiovisual, pintura y exploraciones independientes.",
+    "footerLine": "Archivo vivo: un archivo que crece con la obra.",
+    "rights": "Todas las obras pertenecen al artista."
+  },
+  "nav": {
+    "projects": "Proyectos",
+    "explorations": "Exploraciones",
+    "about": "Sobre mí",
+    "notes": "Notas de campo",
+    "shop": "Impresiones y Merch",
+    "contact": "Contacto",
+    "aria": "Principal",
+    "footAria": "Pie de página",
+    "lab": "Laboratorio"
+  },
+  "ui": {
+    "skip": "Saltar al contenido",
+    "menu": "Menú",
+    "langLabel": "Idioma",
+    "motionOn": "Movimiento: activado",
+    "motionReduced": "Movimiento: reducido",
+    "footExplore": "Explorar",
+    "footElsewhere": "Otros espacios",
+    "footPlaceholders": "Los elementos marcados como «Marcador» sustituyen obra real que aún falta.",
+    "emailLabel": "Correo",
+    "home": "inicio",
+    "togglePanel": "Mostrar u ocultar el panel",
+    "reticleX": "X",
+    "reticleY": "Y"
+  },
+  "flag": {
+    "placeholder": "Marcador",
+    "provisional": "Imagen provisional",
+    "video": "Marcador de video",
+    "slot": "Espacio libre",
+    "demo": "Muestra",
+    "translation": "Traducción pendiente",
+    "statement": "Texto provisional",
+    "example": "Ejemplo"
+  },
+  "empty": {
+    "add": "Por añadir",
+    "text": "Texto por escribir.",
+    "confirm": "Por confirmar",
+    "price": "Precio por anunciar",
+    "store": "Se añadirá cuando la tienda esté configurada",
+    "tools": "Herramientas por añadir.",
+    "emailShort": "Correo: sin configurar"
+  },
+  "social": {
+    "unset": "Enlace sin configurar: agrégalo en config.json",
+    "unsetSr": "(enlace sin configurar)",
+    "newTab": "(se abre en una pestaña nueva)"
+  },
+  "module": {
+    "wip": "En desarrollo",
+    "tocAria": "En esta página",
+    "toc": "Contenido",
+    "videoFallback": "Tu navegador no puede reproducir este video.",
+    "enlarge": "Ampliar:",
+    "compareHint": "Desliza para comparar las dos imágenes",
+    "ytOpen": "Ver en YouTube"
+  },
+  "lb": {
+    "label": "Visor de imágenes",
+    "close": "Cerrar",
+    "closeAria": "Cerrar el visor de imágenes",
+    "prev": "Anterior",
+    "prevAria": "Imagen anterior",
+    "next": "Siguiente",
+    "nextAria": "Imagen siguiente",
+    "zoomInAria": "Acercar",
+    "zoomOutAria": "Alejar",
+    "reset": "Restablecer",
+    "resetAria": "Restablecer zoom y posición",
+    "hint": "Rueda o pellizco: zoom · arrastrar: mover · +/−/0 · Esc: cerrar"
+  },
+  "project": {
+    "crumb": "Proyectos",
+    "prev": "Proyecto anterior",
+    "next": "Proyecto siguiente",
+    "pagerAria": "Otros proyectos",
+    "ctaText": "¿Te interesa esta obra?",
+    "ctaExtra": "Escríbeme, o encuentra el trabajo en otros espacios.",
+    "sysTitle": "Ficha del sistema",
+    "specimen": "Ficha"
+  },
+  "sys": {
+    "code": "Código",
+    "type": "Tipo",
+    "year": "Año",
+    "links": "Conexiones",
+    "none": "Aún ninguna"
+  },
+  "rel": {
+    "title": "Conexiones",
+    "lede": "Hilos hacia otras partes del archivo.",
+    "connected": {
+      "out": "Proyecto conectado",
+      "in": "Conectado con"
+    },
+    "contains": {
+      "out": "Contiene",
+      "in": "Forma parte de"
+    },
+    "note": {
+      "out": "Nota relacionada",
+      "in": "Obra comentada"
+    }
+  },
+  "kind": {
+    "project": "Proyecto principal",
+    "connected": "Proyecto conectado",
+    "exploration": "Exploración",
+    "area": "Sección",
+    "note": "Nota de campo"
+  },
+  "home": {
+    "heroAria": "Introducción",
+    "cta1": "Explorar el archivo",
+    "cta2": "Portafolio profesional",
+    "scroll": "Desplazar",
+    "scrollSr": "Ir al archivo",
+    "artLabel": "Obra destacada",
+    "artOpen": "Ver el proyecto",
+    "introText": "Cuatro cuerpos de trabajo, separados a propósito: un mundo con su propio ecosistema, una instalación audiovisual, una serie de pinturas y un cajón de experimentos independientes.",
+    "asidePre": "No comparten un universo. Entra por cualquiera. ¿Visitas por trabajo?",
+    "asideIndex": "El índice lista todo en una sola tabla",
+    "asideMid": ", y",
+    "asidePro": "los datos profesionales",
+    "asidePost": "están en Sobre mí.",
+    "notesLink": "Abrir las notas de campo",
+    "shopH": "Una tienda está en camino.",
+    "shopText": "Hay un catálogo de vista previa. Todavía no se puede comprar nada.",
+    "shopLink": "Ver el catálogo de vista previa"
+  },
+  "map": {
+    "title": "Mapa del ecosistema",
+    "lede": "Cada punto es un territorio del archivo. Las líneas marcan conexiones reales entre ellos. Pasa el cursor o enfoca un punto para ver qué contiene.",
+    "aria": "Mapa del ecosistema del archivo",
+    "window": "mapa",
+    "idle": "Selecciona un punto para ver qué contiene.",
+    "enter": "Entrar",
+    "hub": "Archivo vivo",
+    "linkedWith": "Conectado con",
+    "readout": "Lectura",
+    "filterAria": "Filtrar el mapa por territorio",
+    "group": {
+      "biopunk": "Biopunk",
+      "golden-tec": "Golden Tec",
+      "ira": "Ira",
+      "free": "Obra libre",
+      "archive": "Archivo"
+    },
+    "countShowing": "Mostrando",
+    "countOf": "de",
+    "countNodes": "puntos",
+    "dragHint": "Puedes arrastrar los puntos para reorganizar el mapa; Enter abre el enlace.",
+    "reset": "Restablecer posiciones",
+    "nodeLab": "Experimentos interactivos"
+  },
+  "statement": {
+    "window": "declaración",
+    "title": "Declaración artística",
+    "read": "Leer la declaración completa",
+    "longH": "Declaración completa",
+    "short": "Mi práctica artística explora las relaciones entre el cuerpo, la identidad, la percepción y el entorno a través de medios visuales, digitales e interactivos. Al experimentar con imágenes, narrativas y espacios, busco plantear preguntas sobre la sensibilidad, la vulnerabilidad y las formas en que experimentamos el mundo y nos relacionamos con él.",
+    "long": [
+      "Mi práctica parte de una pregunta sencilla y difícil: cómo se cruzan el cuerpo, la identidad, la percepción y el entorno. No los trato como temas separados, sino como partes de una misma experiencia que cambia según desde dónde se mire.",
+      "Trabajo con medios visuales, digitales e interactivos porque cada uno permite una forma distinta de acercarse a esa pregunta. Experimento con imágenes, narrativas y espacios, y dejo que el proceso abra preguntas en lugar de cerrarlas.",
+      "Lo que busco es plantear preguntas sobre la sensibilidad, la vulnerabilidad y las maneras en que vivimos el mundo y nos relacionamos con él."
+    ],
+    "note": "Texto provisional: la declaración corta es una síntesis inicial, y la versión larga es un borrador construido solo a partir de ella. Reemplaza ambas en content/es.json y content/en.json → statement cuando tengas la declaración definitiva."
+  },
+  "expl": {
+    "search": "Buscar en las fichas",
+    "view": "Ver la ficha",
+    "note": "Agrega o quita entradas en data/explorations.json. Cada una es independiente.",
+    "entriesAria": "Entradas",
+    "crumb": "Exploraciones independientes",
+    "type": "Tipo",
+    "year": "Año",
+    "techniques": "Técnicas",
+    "sheetAria": "Información de la ficha",
+    "silhouettes": "Siluetas",
+    "palette": "Paleta",
+    "paletteNote": "Agrega colores hex en data/explorations.json → sheet.palette.",
+    "details": "Detalles",
+    "compareH": "Boceto y final",
+    "process": "Proceso",
+    "entryNote": "Agrega imágenes en data/explorations.json y textos en content/es.json y content/en.json.",
+    "all": "Todas las exploraciones",
+    "nextSheet": "Siguiente ficha",
+    "jump": "En esta ficha"
+  },
+  "nf": {
+    "h1": "Fuera del mapa",
+    "lede": "Esa página no forma parte del archivo.",
+    "back": "Volver al inicio"
+  },
+  "meta": {
+    "home": {
+      "title": "Jorge — Archivo vivo"
+    },
+    "projects": {
+      "title": "Proyectos",
+      "desc": "Los cuatro proyectos principales: Biopunk, Golden Tec, Ira y Exploraciones independientes."
+    },
+    "explorations": {
+      "title": "Exploraciones independientes"
+    },
+    "about": {
+      "title": "Sobre mí y contacto",
+      "desc": "Declaración artística, disciplinas, herramientas, información profesional y contacto."
+    },
+    "notes": {
+      "title": "Notas de campo",
+      "desc": "Notas de proceso, investigación y trabajo en curso del archivo."
+    },
+    "shop": {
+      "title": "Impresiones y mercancía",
+      "desc": "Catálogo de vista previa de futuras impresiones y mercancía. Todavía no se puede comprar nada."
+    },
+    "notfound": {
+      "title": "No encontrada",
+      "desc": "Página no encontrada."
+    },
+    "lab": {
+      "title": "Laboratorio",
+      "desc": "Experimentos interactivos del archivo: visor 3D con formas abstractas, sintetizador, shader y paneles de proceso de ejemplo."
+    }
+  },
+  "lab": {
+    "h1": "Laboratorio",
+    "lede": "Cuatro herramientas para explorar el archivo con las manos. Son experimentos del sitio, no documentación de obras reales.",
+    "noticeStrong": "Contenido de ejemplo.",
+    "notice": "Las formas 3D son sólidos abstractos y los textos de los paneles son de muestra: no describen obras reales de Jorge. Todo se sustituye editando data/lab.json y content/*.json.",
+    "toc": "En esta página",
+    "exp": "Ejemplo",
+    "viewer": {
+      "title": "Visor 3D",
+      "text": "Arrastra para rotar, usa la rueda o los botones para acercar. Cambia de forma o activa la malla.",
+      "aria": "Visor 3D de formas abstractas",
+      "fallback": "Tu navegador no puede dibujar el visor 3D (canvas no disponible). El resto del sitio funciona igual.",
+      "object": "Forma",
+      "icosahedron": "Icosaedro",
+      "torus-knot": "Nudo toroidal",
+      "dodecahedron": "Dodecaedro",
+      "wire": "Malla",
+      "zoomIn": "Acercar",
+      "zoomOut": "Alejar",
+      "reset": "Restablecer",
+      "spin": "Giro automático"
+    },
+    "synth": {
+      "title": "Sintetizador",
+      "text": "Un oscilador con modulación lenta. El sonido solo empieza cuando pulsas «Iniciar» y empieza con volumen bajo.",
+      "start": "Iniciar sonido",
+      "stop": "Detener sonido",
+      "on": "Sonando",
+      "off": "Detenido",
+      "unsupported": "Tu navegador no admite audio web; el sintetizador no está disponible.",
+      "freq": "Frecuencia (Hz)",
+      "wave": "Onda",
+      "sine": "Seno",
+      "triangle": "Triangular",
+      "sawtooth": "Diente de sierra",
+      "rate": "Velocidad de modulación (Hz)",
+      "depth": "Profundidad de modulación",
+      "volume": "Volumen",
+      "reset": "Restablecer"
+    },
+    "shader": {
+      "title": "Campo generativo",
+      "text": "Una rejilla animada con funciones seno y coseno. Es un experimento visual 2D (no usa WebGL).",
+      "aria": "Campo generativo animado",
+      "freq": "Frecuencia",
+      "chaos": "Caos",
+      "speed": "Velocidad",
+      "palette": "Paleta",
+      "green": "Verde",
+      "crimson": "Carmesí",
+      "paper": "Papel",
+      "play": "Reproducir",
+      "pause": "Pausar",
+      "reset": "Restablecer",
+      "fallback": "Tu navegador no puede dibujar el campo generativo (canvas no disponible).",
+      "paused": "En pausa (movimiento reducido: pulsa Reproducir para animar)."
+    },
+    "hot": {
+      "title": "Panel de proceso",
+      "text": "Pulsa un punto sobre la imagen para abrir su ficha. Las fichas son un modelo: sustituye la imagen y los textos por la documentación real.",
+      "imageAlt": "Pintura de la serie Ira (imagen provisional) con puntos interactivos",
+      "idle": "Selecciona un punto de la imagen.",
+      "point": "Punto",
+      "noteFlag": "Texto de muestra",
+      "1": {
+        "title": "Zona 1",
+        "text": "Aquí irá una nota de proceso sobre esta zona de la obra: técnica, decisión o referencia."
+      },
+      "2": {
+        "title": "Zona 2",
+        "text": "Aquí irá otra nota: materiales, capas o cambios respecto al boceto."
+      },
+      "3": {
+        "title": "Zona 3",
+        "text": "Aquí irá un detalle documentado, con su fecha y su fuente."
+      }
+    }
+  }
+}

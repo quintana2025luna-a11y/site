@@ -1,0 +1,134 @@
+{
+  "_help": "Estructura de las exploraciones (sin textos). Textos en content/*.json bajo \"explorations\".",
+  "entries": [
+    {
+      "slug": "Volkswagen Transporter t2 Van",
+      "type": "vehicle-design",
+      "year": "18/06/2026",
+      "techniques": "Modelado 3D",
+      "image": {
+        "ratio": "assets/art/Carro_mad_max/REnder_8.png",
+        "src": "assets/art/Carro_mad_max/REnder_8.png"
+      },
+      "page": true,
+      "process": [
+        {
+          "ratio": "assets/art/Carro_mad_max/model.png",
+          "src": "assets/art/Carro_mad_max/model.png"
+        },
+        {
+          "ratio": "assets/art/Carro_mad_max/avance.png",
+          "src": "assets/art/Carro_mad_max/avance.png"
+        },
+         {
+          "ratio": "assets/art/Carro_mad_max/bloqkingpng.png",
+          "src": "assets/art/Carro_mad_max/bloqkingpng.png"
+        }
+      ],
+      "sheet": {
+        "palette": [],
+        "silhouettes": [
+          {
+            "Topologia": "assets/art/Carro_mad_max/topology.png",
+            "src": "assets/art/Carro_mad_max/topology.png"
+          },
+          {
+            "ratio": "assets/art/Carro_mad_max/REnder_9.png",
+            "src": "assets/art/Carro_mad_max/REnder_9.png"
+          },
+          {
+            "ratio": "assets/art/Carro_mad_max/REnder_2.png",
+            "src": "assets/art/Carro_mad_max/REnder_2.png"
+          }
+        ],
+        "details": [
+          {
+            "ratio": "assets/art/Carro_mad_max/REnder_4.png",
+            "src": "assets/art/Carro_mad_max/REnder_4.png"
+          },
+          {
+            "ratio": "assets/art/Carro_mad_max/REnder_7.png",
+            "src": "assets/art/Carro_mad_max/REnder_7.png"
+          },
+           {
+            "ratio": "assets/art/Carro_mad_max/REnder_6.png",
+            "src": "assets/art/Carro_mad_max/REnder_6.png"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "alchemist-angel",
+      "type": "concept-art",
+      "year": null,
+      "techniques": null,
+      "image": {
+        "src": "assets/art/alchemist-angel-1600.jpg",
+        "w": 666,
+        "h": 967,
+        "ratio": "4x5",
+        "provisional": true
+      },
+      "page": true,
+      "process": [
+        {
+          "ratio": "4x5",
+          "src": null
+        },
+        {
+          "ratio": "4x5",
+          "src": null
+        }
+      ],
+      "compare": {
+        "before": {
+          "src": null
+        },
+        "after": {
+          "src": null
+        },
+        "ratio": "4x5"
+      },
+      "sheet": {
+        "palette": [],
+        "silhouettes": [
+          {
+            "ratio": "1x1",
+            "src": null
+          },
+          {
+            "ratio": "1x1",
+            "src": null
+          },
+          {
+            "ratio": "1x1",
+            "src": null
+          }
+        ],
+        "details": [
+          {
+            "ratio": "1x1",
+            "src": null
+          },
+          {
+            "ratio": "1x1",
+            "src": null
+          }
+        ]
+      }
+    },
+    {
+      "slug": "more-to-come",
+      "type": "character",
+      "year": null,
+      "techniques": null,
+      "image": {
+        "ratio": "1x1",
+        "src": null
+      },
+      "page": false,
+      "placeholder": true,
+      "process": []
+    }
+  ]
+}

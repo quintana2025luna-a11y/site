@@ -1,0 +1,15 @@
+{
+  "_help": "Notas de campo (fechas y estructura). Textos en content/*.json bajo \"notes\".",
+  "notes": [
+    {
+      "slug": "first-note",
+      "date": "2026-10-17",
+      "placeholder": true
+    },
+    {
+      "slug": "note-template",
+      "date": "2026-10-17",
+      "placeholder": true
+    }
+  ]
+}

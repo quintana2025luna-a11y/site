@@ -1,0 +1,404 @@
+{
+  "_help": "Estructura de los 4 proyectos (sin textos). Los textos están en content/es.json y content/en.json. Ver README.md.",
+  "projects": [
+    {
+      "slug": "biopunk",
+      "number": "01",
+      "acc": "JA-01",
+      "layout": "fieldguide",
+      "env": "dark",
+      "type": "worldbuilding",
+      "year": null,
+      "pin": {
+        "x": 13,
+        "y": 27
+      },
+      "theme": {
+        "bg": "#0a130c",
+        "bg2": "#122016",
+        "accent": "#79BF65",
+        "accent2": "#591D28",
+        "tone": "green"
+      },
+      "cover": {
+        "src": "assets/art/Pulpo_1.png",
+        "small": "assets/art/Pulpo_1.png",
+        "w": 1600,
+        "h": 910,
+        "ratio": "16x9",
+        "provisional": true
+      },
+      "modules": [
+        {
+          "type": "text",
+          "id": "world"
+        },
+        {
+          "type": "section",
+          "id": "ser-parte"
+        },
+        {
+          "type": "gallery",
+          "id": "maps",
+          "style": "bands",
+          "items": [
+            {
+              "ratio": "3x2",
+              "src": null
+            },
+            {
+              "ratio": "3x2",
+              "src": null
+            }
+          ]
+        },
+        {
+          "type": "specimens",
+          "id": "field-guide",
+          "items": [
+            {
+              "ratio": "4x5",
+              "src": null,
+              "fields": {
+                "designation": null,
+                "habitat": null,
+                "relations": null
+              }
+            },
+            {
+              "ratio": "4x5",
+              "src": null,
+              "fields": {
+                "designation": null,
+                "habitat": null,
+                "relations": null
+              }
+            },
+            {
+              "ratio": "4x5",
+              "src": null,
+              "fields": {
+                "designation": null,
+                "habitat": null,
+                "relations": null
+              }
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "id": "habitats",
+          "style": "asym",
+          "items": [
+            {
+              "ratio": "16x9",
+              "src": null
+            },
+            {
+              "ratio": "16x9",
+              "src": null
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "id": "3d",
+          "style": "asym",
+          "items": [
+            {
+              "ratio": "1x1",
+              "src": null
+            },
+            {
+              "ratio": "1x1",
+              "src": null
+            },
+            {
+              "ratio": "1x1",
+              "src": null
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "id": "research",
+          "style": "pages",
+          "items": [
+            {
+              "ratio": "3x2",
+              "src": null
+            },
+            {
+              "ratio": "3x2",
+              "src": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "golden-tec",
+      "number": "02",
+      "acc": "JA-02",
+      "layout": "cinema",
+      "env": "dark",
+      "type": "animation-installation",
+      "year": "2025",
+      "pin": {
+        "x": 69,
+        "y": 27
+      },
+      "theme": {
+        "bg": "#0c0b08",
+        "bg2": "#1a1710",
+        "accent": "#79BF65",
+        "accent2": "#591D28",
+        "highlight": "#d9a63f",
+        "tone": "gold"
+      },
+      "cover": {
+        "src": "assets/art/Golden_Tec/Imagen_GT_1.png",
+        "small": "assets/art/Golden_Tec/Imagen_GT_1.png",
+        "w": 1280,
+        "h": 720,
+        "ratio": "16x9",
+        "provisional": true
+      },
+      "modules": [
+        {
+          "type": "media",
+          "id": "main-film",
+          "videos": [
+            {
+              "youtube": "https://youtu.be/9bsTU8cKuUY",
+              "src": null,
+              "poster": null,
+              "ratio": "16x9"
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "id": "excerpts",
+          "style": "strip",
+          "videos": [
+            {
+              "youtube": "https://youtu.be/cWNSkmgFus0",
+              "src": null,
+              "poster": null,
+              "ratio": "16x9"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "concept"
+        },
+        {
+          "type": "gallery",
+          "id": "installation",
+          "style": "bands",
+          "items": [
+            {
+              "ratio": "assets/art/Golden_Tec/Imagen_GT_4.png",
+              "src": "assets/art/Golden_Tec/Imagen_GT_4.png"
+            },
+            {
+              "ratio": "assets/art/Golden_Tec/Video_GT_1.mp4",
+              "src": "assets/art/Golden_Tec/Video_GT_1.mp4"
+            },
+            {
+              "ratio": "assets/art/Golden_Tec/Imagen_GT_5.png",
+              "src": "assets/art/Golden_Tec/Imagen_GT_5.png"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "id": "process",
+          "style": "pairs",
+          "items": [
+            {
+              "ratio": "1x1",
+              "src": null
+            },
+            {
+              "ratio": "1x1",
+              "src": null
+            }
+          ]
+        },
+        {
+          "type": "facts",
+          "id": "tech",
+          "facts": {
+            "format": null,
+            "duration": null,
+            "space-dimensions": null,
+            "equipment": null,
+            "credits": null,
+            "year": null
+          }
+        },
+        {
+          "type": "gallery",
+          "id": "documentation",
+          "style": "bands",
+          "items": [
+            {
+              "ratio": "16x9",
+              "src": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ira",
+      "number": "03",
+      "acc": "JA-03",
+      "layout": "gallery",
+      "env": "paper",
+      "type": "painting",
+      "year": null,
+      "pin": {
+        "x": 38,
+        "y": 16
+      },
+      "theme": {
+        "bg": "#e9e3d5",
+        "bg2": "#ddd5c3",
+        "accent": "#591D28",
+        "accent2": "#591D28",
+        "tone": "red",
+        "highlight": "#591D28"
+      },
+      "cover": {
+        "src": "assets/art/Detalle_Rabia.jpeg",
+        "small": "assets/art/Detalle_Rabia.jpeg",
+        "w": 1600,
+        "h": 1240,
+        "ratio": "4x5",
+        "provisional": true
+      },
+      "modules": [
+        {
+          "type": "gallery",
+          "id": "works",
+          "style": "wall",
+          "lightbox": true,
+          "items": [
+            {
+              "src": "assets/art/ira-painting-01-1600.jpg",
+              "small": "assets/art/ira-painting-01-800.jpg",
+              "w": 1600,
+              "h": 1240,
+              "ratio": "4x5",
+              "provisional": true,
+              "meta": {
+                "year": null,
+                "medium": null,
+                "dimensions": null
+              }
+            },
+            {
+              "src": "assets/art/Detalle_Rabia.jpeg",
+              "small": "assets/art/Detalle_Rabia.jpeg",
+              "w": 1600,
+              "h": 1240,
+              "meta": {
+                "year": "2026",
+                "medium": null,
+                "dimensions": null
+              },
+              "ratio": "4x5"
+            },
+            {
+              "ratio": "assets/art/Ira/Imagen_IRA_1.webp",
+              "src": "assets/art/Ira/Imagen_IRA_1.webp",
+              "meta": {
+                "year": null,
+                "medium": null,
+                "dimensions": null
+              }
+            },
+            {
+              "ratio": "4x5",
+              "src": null,
+              "meta": {
+                "year": null,
+                "medium": null,
+                "dimensions": null
+              }
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "statement"
+        },
+        {
+          "type": "gallery",
+          "id": "details",
+          "style": "close",
+          "lightbox": true,
+          "items": [
+            {
+              "ratio": "1x1",
+              "src": null
+            },
+            {
+              "ratio": "1x1",
+              "src": null
+            },
+            {
+              "ratio": "1x1",
+              "src": null
+            }
+          ]
+        },
+        {
+          "type": "compare",
+          "id": "process",
+          "ratio": "4x5",
+          "before": {
+            "src": null
+          },
+          "after": {
+            "src": null
+          }
+        },
+        {
+          "type": "wip",
+          "id": "technology"
+        }
+      ]
+    },
+    {
+      "slug": "explorations",
+      "number": "04",
+      "acc": "JA-04",
+      "layout": "sheets",
+      "env": "dark",
+      "type": "mixed",
+      "year": null,
+      "pin": {
+        "x": 93,
+        "y": 85
+      },
+      "theme": {
+        "bg": "#0e100f",
+        "bg2": "#191d1b",
+        "accent": "#79BF65",
+        "accent2": "#591D28",
+        "tone": "graphite"
+      },
+      "cover": {
+        "ratio": "16x9",
+        "src": null
+      },
+      "modules": [],
+      "href": "explorations.html"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_help": "Catálogo de vista previa. Textos en content/*.json bajo \"shop\". Nada aquí procesa pagos. status: example | placeholder | available | future (ver README). Para añadir una categoría: agrégala en 'categories' y su etiqueta en content/*.json → shop.categories.",
+  "checkout": {
+    "provider": null,
+    "baseUrl": null
+  },
+  "categories": [
+    "art-prints",
+    "apparel",
+    "artbooks",
+    "merchandise"
+  ],
+  "products": [
+    {
+      "slug": "print-a",
+      "category": "art-prints",
+      "price": null,
+      "buyUrl": null,
+      "image": {
+        "ratio": "4x5",
+        "src": null
+      },
+      "status": "example"
+    },
+    {
+      "slug": "print-b",
+      "category": "art-prints",
+      "price": null,
+      "buyUrl": null,
+      "image": {
+        "ratio": "4x5",
+        "src": null
+      },
+      "status": "example"
+    },
+    {
+      "slug": "illustration",
+      "category": "art-prints",
+      "price": null,
+      "buyUrl": null,
+      "image": {
+        "ratio": "1x1",
+        "src": null
+      },
+      "status": "placeholder"
+    },
+    {
+      "slug": "merch-a",
+      "category": "merchandise",
+      "price": null,
+      "buyUrl": null,
+      "image": {
+        "ratio": "1x1",
+        "src": null
+      },
+      "status": "placeholder"
+    },
+    {
+      "slug": "merch-b",
+      "category": "merchandise",
+      "price": null,
+      "buyUrl": null,
+      "image": {
+        "ratio": "1x1",
+        "src": null
+      },
+      "status": "placeholder"
+    },
+    {
+      "slug": "apparel-a",
+      "category": "apparel",
+      "status": "future",
+      "price": null,
+      "buyUrl": null,
+      "image": {
+        "ratio": "1x1",
+        "src": null
+      }
+    },
+    {
+      "slug": "artbook-a",
+      "category": "artbooks",
+      "status": "future",
+      "price": null,
+      "buyUrl": null,
+      "image": {
+        "ratio": "4x5",
+        "src": null
+      }
+    }
+  ],
+  "info": {
+    "shipping": null,
+    "purchasing": null,
+    "returns": null
+  }
+}

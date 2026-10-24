@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs><pattern id="h" width="30" height="30" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="30" stroke="#9aa59c" stroke-opacity=".16" stroke-width="3"/></pattern></defs>
+<rect width="800" height="1000" fill="#161a18"/><rect width="800" height="1000" fill="url(#h)"/>
+<g fill="none" stroke="#9aa59c" stroke-opacity=".55" stroke-width="2"><path d="M0 0L800 1000M800 0L0 1000" stroke-opacity=".18"/><rect x="28" y="28" width="744" height="944" stroke-dasharray="10 10" stroke-opacity=".35"/><path d="M28 68V28H68"/><path d="M772 68V28H732"/><path d="M28 932V972H68"/><path d="M772 932V972H732"/></g>
+<rect x="140.8" y="451.4" width="518.4" height="97.2" fill="#161a18" stroke="#9aa59c" stroke-width="2"/>
+<text x="400" y="503.6" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="36" font-weight="700" letter-spacing="6.4799999999999995" fill="#e9e4d6">PLACEHOLDER</text>
+<text x="400" y="534.2" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="19.8" letter-spacing="2.88" fill="#e9e4d6" fill-opacity=".8">ARTE / ART · 4:5</text>
+</svg>

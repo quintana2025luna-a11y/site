@@ -1,0 +1,108 @@
+{
+  "_help": "EL ECOSISTEMA: el mapa de la portada y los paneles «Conexiones». 'nodes' coloca cada punto en el mapa (x e y son porcentajes, 0–100). 'links' dice qué se conecta con qué. 'extraNodes' define puntos que no son una página propia. Solo agrega conexiones reales: aquí no se inventa nada. kind de un enlace: connected | contains | note (sus etiquetas están en content/*.json → rel). 'group' de cada nodo = categoría para los filtros del mapa (etiquetas en content/*.json → map.group.*).",
+  "extraNodes": [
+    {
+      "id": "ser-parte",
+      "kind": "connected",
+      "code": "JA-01.1",
+      "href": "projects/biopunk.html#ser-parte",
+      "titleKey": "projects.biopunk.modules.ser-parte.heading",
+      "shortKey": "projects.biopunk.modules.ser-parte.body.0"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "biopunk",
+      "x": 20,
+      "y": 30,
+      "group": "biopunk"
+    },
+    {
+      "id": "ser-parte",
+      "x": 9,
+      "y": 66,
+      "group": "biopunk"
+    },
+    {
+      "id": "golden-tec",
+      "x": 74,
+      "y": 24,
+      "group": "golden-tec"
+    },
+    {
+      "id": "ira",
+      "x": 47,
+      "y": 14,
+      "group": "ira"
+    },
+    {
+      "id": "explorations",
+      "x": 76,
+      "y": 70,
+      "group": "free"
+    },
+    {
+      "id": "alchemist-angel",
+      "x": 90,
+      "y": 48,
+      "group": "free"
+    },
+    {
+      "id": "wasteland-vehicle",
+      "x": 62,
+      "y": 88,
+      "group": "free"
+    },
+    {
+      "id": "field-notes",
+      "x": 36,
+      "y": 84,
+      "group": "archive"
+    },
+    {
+      "id": "shop",
+      "x": 90,
+      "y": 12,
+      "group": "archive"
+    },
+    {
+      "id": "lab",
+      "x": 20,
+      "y": 90,
+      "group": "archive"
+    }
+  ],
+  "hub": {
+    "x": 50,
+    "y": 52
+  },
+  "links": [
+    {
+      "from": "biopunk",
+      "to": "ser-parte",
+      "kind": "connected"
+    },
+    {
+      "from": "explorations",
+      "to": "alchemist-angel",
+      "kind": "contains"
+    },
+    {
+      "from": "explorations",
+      "to": "wasteland-vehicle",
+      "kind": "contains"
+    },
+    {
+      "from": "biopunk",
+      "to": "note-template",
+      "kind": "note"
+    }
+  ],
+  "groups": [
+    "biopunk",
+    "golden-tec",
+    "ira",
+    "free",
+    "archive"
+  ]
+}

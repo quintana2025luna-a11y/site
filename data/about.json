@@ -1,0 +1,15 @@
+{
+  "_help": "Datos de About (sin textos). Textos en content/*.json bajo \"about\".",
+  "tools": null,
+  "professional": {
+    "based-in": null,
+    "available-for": null,
+    "education": null,
+    "exhibitions": null,
+    "cv": null
+  },
+  "portrait": {
+    "ratio": "assets/art/siii.jpg",
+    "src": "assets/art/siii.jpg"
+  }
+}
